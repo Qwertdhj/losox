@@ -1,0 +1,113 @@
+.wes
+{
+    top: 1px;
+    font-size: calc(var(--sizeindex) * 1.6);
+    font-weight: 900;
+    text-align: right;
+    background: linear-gradient(45deg, DarkMagenta, Tomato, Violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-right: 15px;
+    position: absolute;
+    top: 117px;
+    left: 395px;
+    transition: opacity var(--transition), transform var(--transition);
+}
+.poi
+{
+    top: 1px;
+    display: table-caption;
+    margin-top: -915px;
+    margin-left: 400px;
+    width: 136px;
+    color: #898686;
+    line-height: 1.4;
+}
+.ert
+{
+    margin-top: -983px;
+    margin-left: 70px;
+    font-size: 35px;
+    font-weight: 900;
+    color: #939393;
+}
+.djf
+{
+    position: absolute;
+    top: 1px;
+    display: table-caption;
+    margin-top: 180px;
+    margin-left: 605px;
+    width: 707px;
+    color: #898686;
+    line-height: 1.34;
+}
+.ldf
+{
+    margin-top: 590px;
+    margin-left: 611px;
+    top: 1px;
+    font-size: calc(var(--sizeindex) * 1.6);
+    font-weight: 900;
+    text-align: right;
+    background: linear-gradient(45deg, DarkMagenta, Tomato, Violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-right: 15px;
+    position: absolute;
+ 
+    transition: opacity var(--transition), transform var(--transition);
+}
+.dkf
+{
+    top: 1px;
+    left: 98px;
+    margin-top: 520px;
+    margin-left: 27px;
+    color: #d0d0d0;
+}
+.flf
+{
+       margin-top: 114px;
+    margin-left: 1120px;
+    top: 1px;
+    font-size: calc(var(--sizeindex) * 1.6);
+    font-weight: 900;
+    text-align: right;
+    background: linear-gradient(45deg, DarkMagenta, Tomato, Violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-right: 15px;
+    position: absolute;
+ 
+    transition: opacity var(--transition), transform var(--transition);
+}
+.product
+{
+    top: 1px;
+    font-size: calc(var(--sizeindex) * 2.3);
+    font-weight: 100;
+    text-align: right;
+    background: linear-gradient(45deg, DarkMagenta, Tomato, Violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-right: 15px;
+    position: absolute;
+    margin-top: -678px;
+    margin-left: 560px;
+    transition: opacity var(--transition), transform var(--transition);
+}
+.colo
+{
+    position: absolute;
+    top: 1px;
+    display: table-caption;
+    margin-top: 182px;
+    margin-left: 1110px;
+    color: #898686;
+    line-height: 1.34;
+}
+.containe
+{
+    height: 1090px;
+}
